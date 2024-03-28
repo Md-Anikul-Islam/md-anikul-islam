@@ -27,11 +27,11 @@ I am a skilled full-stack developer with over 3 years of experience crafting mod
 
 ## 💻 Backend
 
-[![Nodejs Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white)](#) 
+[![Laravel Badge](https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#) 
+[![Mysql Badge](https://shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)](#) 
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
+[![API Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 
 
 ## 💻 Tools
