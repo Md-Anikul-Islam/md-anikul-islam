@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Fullstack+Developer;" alt="Typing SVG" /></a></p>
 
 ### Hi there my gorgeous friend👋
-I am a skilled full-stack developer with over 3 years of experience crafting modern and responsive websites. Proficient in HTML, HTML5, CSS, CSS5, Bootstrap, PHP, JavaScript, as well as frameworks like Vue and Laravel, I bring advanced knowledge to every project. My familiarity with AWS allows me to efficiently host websites on Cloud platforms such as Digital Ocean, and I'm also well-versed in C Panel usage. I excel at diverse web development tasks and always prioritize delivering prompt, high-quality results to my clients. Your time is valuable, and I'm committed to ensuring the utmost quality in all my work.
+I am an accomplished full-stack developer boasting over 3 years of hands-on experience in crafting modern and highly responsive websites. My expertise spans across HTML, HTML5, CSS, CSS5, Bootstrap, PHP, JavaScript, along with proficiency in frameworks like Vue and Laravel. Additionally, I possess a strong familiarity with AWS, enabling me to efficiently host websites on Cloud platforms such as Digital Ocean. I am also adept in utilizing C Panel. Excelling in a range of web development tasks, I consistently prioritize delivering prompt and top-notch results to my clients. I recognize the value of your time and am dedicated to ensuring the utmost quality in all my endeavors.
 
 :coffee: &emsp;Connect with me!
 
